@@ -2,6 +2,10 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=Douglas-S-Rodrigues&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-S-Rodrigues&theme=tokyonight)
+
 <!--
 **Douglas-S-Rodrigues/Douglas-S-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
